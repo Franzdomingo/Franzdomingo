@@ -55,13 +55,8 @@
 ###
 
 <br clear="both">
-
----
-
-## Pacman Contributions
-
 <div align="center">
-  <img src="./pacman-contributions.svg" alt="Pacman Contributions" height="200" />
+  <img src="./pacman-contributions.svg" alt="Pacman Contributions"/>
 </div>
 
 ###
