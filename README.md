@@ -1,7 +1,3 @@
-<img align="left" height="360" src="https://media1.tenor.com/m/wxaQ78WDEREAAAAC/guts-berserk-banner.gif"  />
-
-###
-
 <h4 align="center">WELCOME TO MY PROFILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h4>
 
 ###
@@ -48,12 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franzdomingo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="50" alt="languages graph"  />
 </div>
 
 ###
