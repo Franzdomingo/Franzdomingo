@@ -1,8 +1,8 @@
-<img align="left" height="400" src="https://media1.tenor.com/m/wxaQ78WDEREAAAAC/guts-berserk-banner.gif"  />
+<img align="left" height="360" src="https://media1.tenor.com/m/wxaQ78WDEREAAAAC/guts-berserk-banner.gif"  />
 
 ###
 
-<h4 align="center">Hi, I’m Franz Phillip G. Domingo.<br>I am a Computer Science undergraduate specializing in Software Engineering.</h4>
+<h4 align="center">WELCOME TO MY PROFILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h4>
 
 ###
 
@@ -52,6 +52,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/franzdomingo/franzdomingo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franzdomingo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="50" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franzdomingo/franzdomingo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franzdomingo/franzdomingo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/franzdomingo/franzdomingo/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
