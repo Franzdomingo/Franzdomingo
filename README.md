@@ -56,7 +56,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="./pacman-contributions.svg" alt="Pacman Contributions"/>
+  <img src="./pacman-contributions.svg"/>
 </div>
 
 ###
